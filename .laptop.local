@@ -58,6 +58,7 @@ source $(brew --prefix nvm)/nvm.sh
 brew cask install google-chrome
 
 # Productivity
+brew install mackup
 
 # Storage/Documents
 brew cask install dropbox
@@ -70,11 +71,15 @@ brew cask install visual-studio-code
 brew cask install postman
 brew cask install paw
 brew cask install sourcetree
+brew install carthage
+brew install git
+brew install git-flow-avh
 
 # Database
 
 # Communication
 brew cask install slack
+brew cask install whatsapp
 
 # Media/Entertainment
 brew cask install vlc
@@ -82,6 +87,9 @@ brew cask install vlc
 # Utilities
 brew cask install the-unarchiver
 brew cask install gpgtools
+brew install youtube-dl
+brew cask install charles
+brew cask install cheatsheet
 
 # Security
 brew cask install 1password
