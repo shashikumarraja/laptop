@@ -90,6 +90,7 @@ brew cask install gpgtools
 brew install youtube-dl
 brew cask install charles
 brew cask install cheatsheet
+brew cask install controlplane
 
 # Security
 brew cask install 1password
