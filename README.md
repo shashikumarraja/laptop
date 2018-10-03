@@ -203,8 +203,6 @@ Databases:
     * [YubiKey Personalization Tool] for personalizing Yubikeys
     * [Trello] for having a desktop client for Trello
   
-  * Specialized Software:
-    * If secure storage USB key is mounted, copy specialized applications, keys & additional software licenses
 * Clone & install thoughtbot dotfiles repo
 * Clone & install personal dotfiles from repo & configures them to be used
 * Removes thoughtbot mac file
