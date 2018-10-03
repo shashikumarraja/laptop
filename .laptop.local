@@ -79,6 +79,7 @@ brew install git-flow-avh
 
 # Communication
 brew cask install slack
+brew cask install skype
 brew cask install whatsapp
 
 # Media/Entertainment
