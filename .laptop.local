@@ -73,6 +73,7 @@ brew cask install sourcetree
 brew install carthage
 brew install git
 brew install git-flow-avh
+brew cask install zeplin
 
 # Database
 
