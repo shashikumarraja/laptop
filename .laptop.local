@@ -51,14 +51,13 @@ brew tap buo/cask-upgrade
 # brew install nvm
 # source $(brew --prefix nvm)/nvm.sh
 
+# Productivity
+brew install mackup
 
 # //--- Brew Cask Installations ---//
 
 # Browsers
 brew cask install google-chrome
-
-# Productivity
-brew install mackup
 
 # Storage/Documents
 brew cask install dropbox
