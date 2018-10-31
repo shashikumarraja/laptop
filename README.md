@@ -9,7 +9,7 @@ build-a-tron supports the following operating systems:
 *  [macOS Mavericks (10.9)](https://en.wikipedia.org/wiki/OS_X_Mavericks)
 *  [macOS Yosemite (10.10)](https://en.wikipedia.org/wiki/OS_X_Yosemite)
 *  [macOS El Capitan (10.11)](https://en.wikipedia.org/wiki/OS_X_El_Capitan)
-*  macOS Sierra (10.12)
+*  [macOS Sierra (10.12)](https://en.wikipedia.org/wiki/MacOS_Sierra)
 
 Install
 ------
