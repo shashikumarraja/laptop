@@ -98,7 +98,7 @@ Databases:
 * [Redis] for storing key-value data
 
 * build-a-tron laptop configuration sets up the following Desktop applications:
-  * Brew Cask Applications
+  * [Brew Cask](https://github.com/Homebrew/homebrew-cask) Applications
     * [Google Chrome] Browser
     * [Blisk] Browser
     * [Mozilla Firefox] Browser
