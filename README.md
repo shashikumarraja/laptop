@@ -73,7 +73,7 @@ Heroku tools:
 
 GitHub tools:
 
-* [Hub] for interacting with the GitHub API
+* [Hub] for interacting with the [GitHub API](https://developer.github.com/v3/)
 
 [Hub]: http://hub.github.com/
 
